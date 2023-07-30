@@ -1,0 +1,44 @@
+.navbar
+{
+    background-color:rgb(214, 214, 214);
+}
+
+
+.navbar
+.navbar-brand
+img
+{
+    height: 45px;
+}
+
+
+.home
+{
+    padding-top: 90px;
+}
+
+
+.imoo
+{
+    height: 70%;
+}
+
+
+.photo
+{
+    width: 100px;
+    cursor: pointer;
+}
+
+
+
+
+
+.Main
+
+{
+
+    transition: all 0.5s;
+}
+
+
